@@ -1,5 +1,5 @@
 # HexSoftwares_DataScience_Project_1
-# Exploratory Data Analysis - Titanic Dataset
+# Exploratory Data Analysis - Iris Dataset
 
 ## Objective
 Perform data cleaning and exploratory data analysis on Titanic dataset.

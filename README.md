@@ -2,7 +2,7 @@
 # Exploratory Data Analysis - Iris Dataset
 
 ## Objective
-Perform data cleaning and exploratory data analysis on Titanic dataset.
+Perform data cleaning and exploratory data analysis on Iris dataset.
 
 ## Tools Used
 - Python
